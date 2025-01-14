@@ -1,7 +1,7 @@
 
-# LM-Notification
+# Pub-SUb
 
-LM-Notification is a console-based CLI notification service that simulates a publisher-consumer model in a console environment. The application allows users to create and manage topics, publish messages, and notify subscribers, demonstrating the fundamentals of messaging systems and object-oriented programming.
+It is a console-based CLI notification service that simulates a publisher-consumer model in a console environment. The application allows users to create and manage topics, publish messages, and notify subscribers, demonstrating the fundamentals of messaging systems and object-oriented programming.
 
 
 
@@ -14,7 +14,7 @@ LM-Notification is a console-based CLI notification service that simulates a pub
 Clone the project
 
 ```bash
-  git clone https://github.com/thorbus/LM_Notification_Assignment.git
+  git clone https://github.com/thorbus/Pub_sub_model.git
 ```
 
 Go to the project directory
